@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_web_101/src/main/presentation/widgets/basic/playground.dart';
 
+// Initial project
 void main() {
   runApp(const MyApp());
 }
